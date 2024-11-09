@@ -1,0 +1,1 @@
+First time ever playing in Visual Studio, super simple application that just runs one command in powershell to open Chris Titus WinUtil. Just made this as a simple project and help me personally when setting up new desktops.
